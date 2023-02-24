@@ -7,9 +7,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
-  <b>This is Space Game</b><br><br>
+  <b>This is Text Analyzer Website</b><br><br>
   <ul>
-  <li>This Game is build by using Python Language.</li>
-  <li>Pygame Library is used to complete this game.</li>
+  <li>This is build on HTML, BOOTSTRAP.</li>
+  <li>BackEnd of this website is managed by Django</li>
   </ul>
 </div>
